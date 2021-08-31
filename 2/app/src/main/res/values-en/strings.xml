@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipes</string>
+
+    <string name="pizza_1_name">"Carrot cutlets"</string>
+    <string name="pizza_1_description">"Toasted carrot cutlets for a light snack or a snack, bright, smart, tasty."    </string>
+    <string name="pizza_1_recipe">"Ingredients \ n" +
+            "700 g carrots, \ n" +
+            "2 eggs, \ n" +
+            "small head of onion, \ n" +
+            "2 cloves of garlic, \ n" +
+            "1 tablespoon mayonnaise, \ n" +
+            "30 g flour, \ n" +
+            "salt to taste, \ n" +
+            "oil for frying. \ n" +
+            "Cooking cutlets \ n" +
+            "Three carrots on a fine or medium grater, salt to taste, stir, leave for 10-15 minutes. \ N" +
+            "Chop the onion and garlic very finely. \ N" +
+            "We squeeze the carrots. If the carrots have given juice, drain it, we won't need it for cutlets. \ N" +
+            "Add the onion-garlic, flour, eggs and mayonnaise, stir. The minced carrot is ready. Leave it under the lid for 10 minutes (let the flour take in excess moisture and swell so that the cutlets keep their shape). \ N" +
+            "Grease the frying pan with oil and fry the patties until crispy for a couple of minutes on each side. Transfer them to a baking dish and send them to the oven to reach 180 degrees C for 20-25 minutes. \ N" +
+            "Carrot cutlets are ready. Serve with sauce and herbs. Bon appetite!"
+</string>
+
+    <string name="pizza_2_name">"Pasta casserole with vegetables"</string>
+    <string name="pizza_2_description">"You look at the ingredients every time and think, why is it so delicious ?! Well, it's really delicious! Macaros, slices of tender fried zucchini, juicy tomatoes, aromatic bacon or ham, and all this in a creamy sauce with paprika and garlic under golden brown mozzarella. "</string>
+    <string name="pizza_2_recipe">"Ingredients \ n" +
+            "250 g of pasta (dry weight) - pasta, bows or spirals, \ n" +
+            "400 g zucchini, \ n" +
+            "400 g chopped tomatoes, \ n" +
+            "200 g ham or bacon, \ n" +
+            "400 ml cream 10-20%, \ n" +
+            "300 g brine-free mozzarella, \ n" +
+            "2 cloves of garlic, \ n" +
+            "2 tsp paprika, \ n" +
+            "1/2 tsp salt, \ n" +
+            "1/2 tsp black pepper, \ n" +
+            "1 tablespoon olive oil. \ N" +
+            "The process of making casseroles \ n" +
+            "Prepare the sauce. Mix the cream with salt, two kinds of pepper and garlic. Leave it to infuse. \ N" +
+            "Cook the pasta in salted water. \ N" +
+            "Cut the ham / bacon into thin slices about 1 cm wide. If using bacon, fry it and place on a paper towel to absorb excess fat. The ham does not need to be processed. \ N" +
+            "Cut the zucchini into 0.5 cm thick slices. Fry until golden brown and soft. \ N" +
+            "Mix the pasta, vegetables and ham with fragrant cream. Put it in a baking dish and sprinkle with mozzarella grated on a fine grater. \ N" +
+            "We bake at 180 degrees C 15-20 minutes until the cheese melts and browns. \ N" +
+            "The casserole is ready. You can sprinkle with fresh herbs. Pour in. Bon appetit!"</string>
+
+    <string name="pizza_3_name">"Classic fish cakes"</string>
+    <string name="pizza_3_description">"These juicy, mouth-watering fish cakes can be made from almost any type of fish, be it white or red. Classic rich taste and no fuss."</string>
+    <string name="pizza_3_recipe">"Ingredients \ n" +
+            "1 kg of fish fillet, \ n" +
+            "200 g onions, \ n" +
+            "100 g of bread / rusks, \ n" +
+            "150 ml milk / cream, \ n" +
+            "2 tablespoons butter / ghee, \ n" +
+            "1 + 1/4 tsp salt, \ n" +
+            "1/4 tsp white pepper, \ n" +
+            "several sprigs of dill, \ n" +
+            "1 beaten egg white, \ n" +
+            "flour or breadcrumbs for roasting. \ n" +
+            "Recipe for making fish cakes \ n" +
+            "Preparing the minced meat. Soak the bread in milk / cream and leave it to swell. \ N" +
+            "Chop the onion very finely and fry in butter until light golden brown, stirring constantly. \ N" +
+            "We cut the fish into pieces or chop it in the grinder, not being too zealous so that it does not turn into porridge, or we pass it through a very large grill. \ N" +
+            "Combine fish fillets, bread mixture and fried onions. Salt, pepper and add chopped greens to the minced meat. Knead thoroughly and beat a little on the table several times to improve the structure and add juiciness. Leave the minced meat in the refrigerator for 30 minutes. \ N" +
+            "We fry cutlets. Fish absorbs oil more actively than meat, so for cooking it is better to choose light frying followed by baking or clean baking. Form cutlets 70-75 g each, roll them in flour or bread crumbs and fry in a hot, oiled frying pan. shortly on both sides until golden brown.Then transfer to a baking sheet and bake for 10 minutes at 180 degrees C. Or bake for 15 minutes without frying, then it is better to take bread crumbs for rolling (they are prettier golden in the oven) or not to bread at all. \ n "+
+            "Fish cakes are ready, you can serve with rice or mashed potatoes, accompanied by greens and always lemon :) Bon appetit!"</string>
+
+    <string name="pizza_4_name">"Very lazy stuffed cabbage"</string>
+    <string name="pizza_4_description">"These stuffed cabbage rolls are so lazy that they don't even look like ordinary stuffed cabbage, but they taste one to one. These stuffed cabbage rolls are so lazy that you don't even need to pre-cook rice to cook them. These stuffed cabbage rolls are so lazy that you don't need to roll or fry anything. Just cut, fold, boil everything. "</string>
+    <string name="pizza_4_recipe">"Ingredients for stuffed cabbage \ n "+
+            "1 kg of ground beef, \ n" +
+            "1.5 kg of cabbage, \ n" +
+            "300 g of rice, \ n" +
+            "1 onion bulb, \ n" +
+            "1 liter of water, \ n" +
+            "2 tablespoons of salt without a slide, \ n" +
+            "1 tsp black pepper, \ n" +
+            "a bunch of dill, \ n" +
+            "sour cream for serving. \ n" +
+            "If you are lazy to go for minced meat, turn any available piece of meat on the middle rack of the meat grinder. \ N" +
+            "\ n" +
+            "Recipe for making lazy cabbage rolls \ n" +
+            "Cut cabbage and onion into squares. \ N" +
+            "We are washing the rice. \ N" +
+            "Put the cabbage and onions in a saucepan, put a layer of raw rice on top, then a layer of meat. You can add a couple more tablespoons of tomato paste. \ N" +
+            "We make holes in the meat with a spoon for steam and pour a liter of water on top. \ N" +
+            "We put on the fire, wait for a boil and let it boil for a couple of minutes. Then reduce the heat to medium or slightly below average, salt, pepper, stir and simmer under a lid for 40-50 minutes. Stir every 10-15 minutes during the stewing. \ N" +
+            "Or even lazier - we put everything in a baking dish, stir, cover with a lid and in the oven at 180 degrees C for an hour, and you don't even need to stir. \ N" +
+            "At the end of stewing, add finely chopped dill. \ N" +
+            "Lazy stuffed cabbage rolls are ready. Serve with sour cream. Bon appetit! \ N" +
+            "\ n"</string>
+
+    <string name="pizza_5_name">"Basbusa (coconut pie on semolina)"</string>
+    <string name="pizza_5_description">"Sweet, sticky and delicious oriental coconut pie, but after this miracle, it is highly recommended to volunteer to be enslaved by the treadmill. \ N" +
+             "Loose, crumbly, fragrant dough, generously filled with coconut flakes, soaked in viscous sugar syrup and delicately decorated with nuts."</string>
+    <string name="pizza_5_recipe">"Ingredients for the form 20:24 cm \ n" +
+            "For test: \ n" +
+            "\ n" +
+            "150 g flour, \ n" +
+            "200 g sugar, \ n" +
+            "200 g semolina, \ n" +
+            "250 g of natural yoghurt, \ n" +
+            "100 g coconut flakes, \ n" +
+            "250 ml of refined vegetable oil, \ n" +
+            "2 tsp baking powder, \ n" +
+            "1 tsp vanilla extract, \ n" +
+            "1 egg. \ N" +
+            "For syrup: \ n" +
+            "200 g sugar, \ n" +
+            "125 ml of water, \ n" +
+            "1 tsp lemon juice. \ N" +
+            "\ n" +
+            "Any nuts for decoration. \ N" +
+            "\ n" +
+            "Basbusa recipe \ n" +
+            "Preparing the dough. Mix all dry ingredients. \ N" +
+            "Pour in the vanilla extract, yoghurt and butter. Mix thoroughly until the butter stops separating from the dough. \ N" +
+            "Beat the egg well and add it to the dough as well. \ N" +
+            "Put the dough in a mold and bake the cake at 180 ° C for 30 minutes. \ N" +
+            "While the cake is baking, cook the syrup. Mix sugar, water and lemon juice. Bring to a boil, stirring occasionally, and simmer for 5 minutes. \ N" +
+            "We cut the finished bassbusa into portioned pieces and, without moving them apart, fill it with uncooled syrup while still warm (you will need all the syrup). Leave it to soak and cool completely for 6-8 hours. \ N" +
+            "Basbusa (oriental coconut pie with semolina) \ n" +
+            "\ n" +
+            "Decorate with nuts, or you can put nuts on the cake before baking, so that when you cut, there is a nut in the center of each piece. You can also add flower petals to the decor for brightness. \ N" +
+            "The bass is ready. Bon appetit!"
+</string>
+
+    <string name="pizza_6_name">"Stroganoff beef liver"</string>
+    <string name="pizza_6_description">"The classic recipe for Stroganoff beef liver with vegetables in sour cream sauce. Pieces of liver, soaked through with sour cream sauce, become so tender that they just melt in your mouth. Stewed carrots and onions complement the harmony of aromas and add texture to the sauce."</string>
+    <string name="pizza_6_recipe">"Stroganoff Liver Ingredients \ n" +
+            "beef liver 300 g, \ n" +
+            "butter 2 tablespoons, \ n" +
+            "onion 1, \ n" +
+            "carrots 1-2, \ n" +
+            "wheat flour 1 tsp., \ n" +
+            "thick sour cream 4 full tablespoons, \ n" +
+            "food salt, \ n" +
+            "green onions for serving. \ n" +
+            "Liver recipe \ n" +
+            "We defrost the liver, clean it from the bile ducts, remove the film. \ N" +
+            "Cut the liver into 4-5 cm long cubes. \ N" +
+            "Heat the butter in a frying pan, send the liver into it, lightly fry until the color changes. \ N" +
+            "Add a little drinking water, literally a quarter of a glass, and leave the liver to simmer under the lid over low heat for 40 minutes. \ N" +
+            "Peel the carrots and onions and cut them into cubes. \ N" +
+            "We send processed carrots and onions to the liver. \ N" +
+            "Prepare the sour cream sauce. Lightly fry the flour until golden in a dry frying pan, add sour cream, a little water (or broth) until the consistency of the sauce. \ N" +
+            "Fill the liver with vegetables with sour cream sauce, salt and simmer until tender (10-15 minutes). \ N" +
+            "Serve Stroganoff liver, sprinkle with chopped green onions. And if served on a pillow of mashed potatoes, it will be simply delicious :) Bon appetit!"</string>
+</resources>

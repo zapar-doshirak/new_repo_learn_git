@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abel</item>
+        <item>@font/actor</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/alex_brush</item>
+        <item>@font/alike_angular</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/limelight</item>
+        <item>@font/pirata_one</item>
+        <item>@font/playfair_display</item>
+        <item>@font/stint_ultra_condensed</item>
+    </array>
+</resources>
